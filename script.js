@@ -12,6 +12,3 @@ const obtenerInformacion = (materia) =>{
         return "la materia no existe";
     }
 }
-
-let informacion = obtenerInformacion("logca");
-document.write(informacion);

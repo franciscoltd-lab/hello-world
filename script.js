@@ -12,3 +12,7 @@ const obtenerInformacion = (materia) =>{
         return "la materia no existe";
     }
 }
+
+let informacion = obtenerInformacion("fisisca");
+
+document.write(informacion);

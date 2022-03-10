@@ -1,0 +1,49 @@
+[33mcommit 4078f36c343ebb734ce6a4d7d9464b907488b51f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 09157c5 aaa9293
+Author: Francisco Reyna <francisco.reyna@alumnos.udg.mx>
+Date:   Wed Mar 9 14:40:21 2022 -0600
+
+    Sabe que pasó
+
+[33mcommit aaa92931f944eec9e7f8488449e6797c35341bff[m
+Author: Francisco Reyna <francisco.reyna@alumnos.udg.mx>
+Date:   Wed Mar 9 14:36:21 2022 -0600
+
+    Borrando el comentario
+
+[33mcommit 09157c5549f8dbf71e78276b1c8f1d3588bf1dde[m
+Author: Francisco Reyna <francisco.reyna@alumnos.udg.mx>
+Date:   Wed Mar 9 14:31:58 2022 -0600
+
+    sabe que hice
+
+[33mcommit e9cd1a528e877c6585be12422fc2e2f60db1539d[m
+Merge: cab1f35 b8dae80
+Author: Francisco Reyna <francisco.reyna@alumnos.udg.mx>
+Date:   Wed Mar 9 14:31:34 2022 -0600
+
+    nose que hice
+
+[33mcommit b8dae80f1ab2d12a5f3de9a31cf43f03eeb64341[m
+Author: Francisco Reyna <francisco.reyna@alumnos.udg.mx>
+Date:   Wed Mar 9 14:19:02 2022 -0600
+
+    Agregando mensaje en otra rama
+
+[33mcommit cab1f35133852297550f9302b84d33e414fd7258[m
+Author: Francisco Reyna <francisco.reyna@alumnos.udg.mx>
+Date:   Wed Mar 9 14:18:16 2022 -0600
+
+    Modificacndo
+
+[33mcommit d6f17e5c6ae2d9e8688fbe6d19c31843cf8e99fe[m
+Author: Francisco Reyna <francisco.reyna@alumnos.udg.mx>
+Date:   Wed Mar 9 12:26:56 2022 -0600
+
+    Resolviendo el primer problema de la calculadora mejorada
+
+[33mcommit ff0bf8b23c57e0f4838f38a6a3e3407390919582[m
+Author: Francisco Reyna <francisco.reyna@alumnos.udg.mx>
+Date:   Mon Feb 14 07:15:47 2022 -0600
+
+    agregando primeros archivos
